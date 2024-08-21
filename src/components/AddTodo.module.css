@@ -1,0 +1,15 @@
+.myContainer{
+    width: 85%;
+}
+
+.myButton{
+    background-color: rgb(161, 254, 142);
+    width: 75px;
+    outline: none;
+    color: black;
+    float: right;
+    border: none;
+}
+.myButton:hover{
+    background-color: rgb(107, 240, 95);
+    transform: scale(1.1);}

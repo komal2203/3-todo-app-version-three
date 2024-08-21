@@ -1,0 +1,21 @@
+.myContainer {
+  width: 85%;
+  font-weight: 600;
+}
+.myButton {
+  background-color: rgb(252, 134, 91);
+  width: 75px;
+  color: black;
+  outline: none;
+  border: none;
+  float: right;
+}
+.myButton:hover {
+  background-color: rgb(254, 79, 79);
+  transform: scale(1.1);
+}
+.myRow {
+  display: flex;
+  align-items: center;
+
+}
